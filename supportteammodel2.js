@@ -3,23 +3,23 @@ const mongoose = require('mongoose')
 const team = new mongoose.Schema({
     
     name :{
-        type : String,
-        required : true
+        type : string,
+        required : True
     },
     clgid :{
-        type : String,
+        type : string,
         required : true,
     },
     position :{
-        type : String,
+        type : string,
         required : true,
     },
     mobile :{
-        type : String,
+        type : string,
         required : true,
     },
     email :{
-        type : String,
+        type : string,
         required : true,
     }
 })
