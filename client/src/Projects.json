@@ -1,0 +1,18 @@
+[{
+    "name":"Tharun",
+    "branch":"23rd Batch IT - A",
+    "id":"19911A1234",
+    "Title":"student resources",
+    "Description":"a basic website with collection of data where students will find the pro features of some appilications for free",
+    "github":"https://github.com/tharunkarnekota/student-resources",
+    "videourl":"https://www.youtube.com/watch?v=YfO28Ihehbk",
+    "link":"https://student-resources-vjit.netlify.app/"
+},
+{
+    "name":"hemanth",
+    "branch":"23rd Batch AIE",
+    "id":"19911A3532",
+    "Title":"Face recognisation",
+    "Description":"basic face recognisation appilication using ML",
+    "github":"https://github.com/tharunkarnekota/zigrocks"
+}]

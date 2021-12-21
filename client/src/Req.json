@@ -1,0 +1,15 @@
+
+
+[{
+    "name":"tharun",
+    "id":"19911A1234",
+    "skillsreq":"js,MERN",
+    "theme":"student resoources : a basic website with collection of data where students will find the pro features of some appilications for free"
+
+},{
+    "name":"hemanth",
+    "id":"19911A3532",
+    "skillsreq":"python,ML",
+    "theme":"face Recognisation : basic face recognisation appilication for mobiles"
+ 
+}]
