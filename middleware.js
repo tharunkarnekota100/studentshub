@@ -8,7 +8,8 @@ module.exports = function(req,res,next){
         }
         let decoded = jwt.verify(token,'jwtPassword');
         req.user = decoded.user;
-        next();
+        // NxT();
+        
     }
     catch(err){
         console.log(err);
